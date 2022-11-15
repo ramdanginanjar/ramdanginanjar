@@ -1,0 +1,20 @@
+{
+  "name": "Rental Mobil",
+  "short_name": "Rental Mobil",
+  "description": "Aplikasi Rental Mobil",
+  "icons": [{
+      "src": "assets/img/mobilya.png",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/mobilya.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
